@@ -1,0 +1,8 @@
+body
+{
+    line-height: 1.6;
+    width : 650px; /* A adapter */
+    margin: auto;
+    background-color : rgba(238, 238, 238, 0.192); 
+    font-size : 18px;
+}
