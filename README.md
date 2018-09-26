@@ -1,3 +1,4 @@
 # debzow.github.io
 
-Contain BetterMotherFuckingWebsite project
+Project BetterMotherFuckingWebsite
+https://debzow.github.io/BetterMotherFuckingWebsite/
